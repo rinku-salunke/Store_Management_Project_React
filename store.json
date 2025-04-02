@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "id": "ff2f",
+      "productName": "laptop top model",
+      "description": "top model vivo 1904 ",
+      "category": "gadget",
+      "price": "15000",
+      "quantity": "5",
+      "supplier": "Lenovo PVT LTD, Pune",
+      "inStock": true
+    },
+    {
+      "id": "54e0",
+      "productName": "laptop top model",
+      "description": "top model vivo 1904 2",
+      "category": "gadget",
+      "price": "15000",
+      "quantity": "5",
+      "supplier": "Lenovo PVT LTD, Pune",
+      "inStock": true
+    },
+    {
+      "id": "aee4",
+      "productName": "Mobile vivo 1904",
+      "description": "Vivo 1904 mobile is top ",
+      "category": "gadget",
+      "price": "15000",
+      "quantity": "5",
+      "supplier": "Blue Diamond Shop Mahijalgaon",
+      "inStock": true
+    }
+  ]
+}
